@@ -4,7 +4,7 @@ title: "DocCore Legal"
 lang: es
 ---
 
-# 3dcostlab – Documentación Legal
+# DocCore – Documentación Legal
 
 Bienvenido a la sección legal de  DocCore. Selecciona tu idioma para ver la Política de Privacidad o los Términos y Condiciones.
 
